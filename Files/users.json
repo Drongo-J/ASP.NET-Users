@@ -1,0 +1,242 @@
+[
+  {
+    "Id": "5e04d0ad-00b4-41cd-a034-efdb3c334908",
+    "Name": "John",
+    "Surname": "Doe",
+    "Age": 25,
+    "Mail": "john.doe@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  {
+    "Id": "3ac8f853-4549-4dd4-bb22-2eeaabb6b868",
+    "Name": "Jane",
+    "Surname": "Doe",
+    "Age": 27,
+    "Mail": "jane.doe@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/2.jpg"
+  },
+  {
+    "Id": "649f1fd1-c0a8-46ac-97ec-92564afec891",
+    "Name": "Michael",
+    "Surname": "Johnson",
+    "Age": 30,
+    "Mail": "michael.johnson@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "Id": "a88e9f3f-ffb5-46e2-9437-fb4f61e19a9b",
+    "Name": "Sarah",
+    "Surname": "Wilson",
+    "Age": 22,
+    "Mail": "sarah.wilson@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/4.jpg"
+  },
+  {
+    "Id": "26a50195-cb3a-4a57-904b-32446d9d2af8",
+    "Name": "David",
+    "Surname": "Brown",
+    "Age": 29,
+    "Mail": "david.brown@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/5.jpg"
+  },
+  {
+    "Id": "2fbaad01-b48d-4dc6-a9b4-76782282f913",
+    "Name": "Emily",
+    "Surname": "Taylor",
+    "Age": 31,
+    "Mail": "emily.taylor@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/6.jpg"
+  },
+  {
+    "Id": "9f5e8cb3-e475-4f93-9f78-ac76c7892b8a",
+    "Name": "Daniel",
+    "Surname": "Anderson",
+    "Age": 26,
+    "Mail": "daniel.anderson@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/7.jpg"
+  },
+  {
+    "Id": "07155fe2-0fd9-4108-b453-58b7c2f98195",
+    "Name": "Jessica",
+    "Surname": "Clark",
+    "Age": 24,
+    "Mail": "jessica.clark@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/8.jpg"
+  },
+  {
+    "Id": "dc6a72c0-e593-498d-93e7-1b27588a0486",
+    "Name": "Christopher",
+    "Surname": "White",
+    "Age": 28,
+    "Mail": "christopher.white@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/9.jpg"
+  },
+  {
+    "Id": "c6bfb80f-df5f-4284-a9d5-e79bdf175e7f",
+    "Name": "Stephanie",
+    "Surname": "Scott",
+    "Age": 23,
+    "Mail": "stephanie.scott@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "Id": "add38924-a58c-410d-9a8f-2a3cf7d11945",
+    "Name": "Andrew",
+    "Surname": "Hall",
+    "Age": 32,
+    "Mail": "andrew.hall@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/11.jpg"
+  },
+  {
+    "Id": "000c2970-7788-4fb3-ac26-a461c8616ef6",
+    "Name": "Amanda",
+    "Surname": "Wright",
+    "Age": 25,
+    "Mail": "amanda.wright@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "Id": "8a433431-eeb3-4f22-8b56-aed61f63ba67",
+    "Name": "Nicholas",
+    "Surname": "Turner",
+    "Age": 29,
+    "Mail": "nicholas.turner@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/13.jpg"
+  },
+  {
+    "Id": "4e53c2b9-ba57-4567-9f45-44b87b25c2cd",
+    "Name": "Melissa",
+    "Surname": "Mitchell",
+    "Age": 26,
+    "Mail": "melissa.mitchell@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/14.jpg"
+  },
+  {
+    "Id": "385ac4f2-2f4f-4caa-aec4-2b7faed1886f",
+    "Name": "Justin",
+    "Surname": "Lewis",
+    "Age": 27,
+    "Mail": "justin.lewis@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/15.jpg"
+  },
+  {
+    "Id": "77100e15-8bb4-45d0-ad6f-9b0477ea25dd",
+    "Name": "Katherine",
+    "Surname": "Green",
+    "Age": 28,
+    "Mail": "katherine.green@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/16.jpg"
+  },
+  {
+    "Id": "6ec2aaad-3cf8-4da8-a683-1a8214d63f4f",
+    "Name": "Jacob",
+    "Surname": "Smith",
+    "Age": 24,
+    "Mail": "jacob.smith@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/17.jpg"
+  },
+  {
+    "Id": "3b76f05b-58ae-4a23-ad14-302e9f96ff10",
+    "Name": "Megan",
+    "Surname": "Jones",
+    "Age": 23,
+    "Mail": "megan.jones@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/18.jpg"
+  },
+  {
+    "Id": "47573b21-1c87-4894-8b26-c89edede3023",
+    "Name": "Brandon",
+    "Surname": "Garcia",
+    "Age": 26,
+    "Mail": "brandon.garcia@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/19.jpg"
+  },
+  {
+    "Id": "6b083f33-81a3-459f-a9a5-747d3d1aa34e",
+    "Name": "Alyssa",
+    "Surname": "Lopez",
+    "Age": 27,
+    "Mail": "alyssa.lopez@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/20.jpg"
+  },
+  {
+    "Id": "0e009ae9-9ea0-4ffc-a380-82bfb830e492",
+    "Name": "Tyler",
+    "Surname": "Hernandez",
+    "Age": 25,
+    "Mail": "tyler.hernandez@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/21.jpg"
+  },
+  {
+    "Id": "1be9ede5-f0b1-43ea-8d0e-59f064f9f57d",
+    "Name": "Lauren",
+    "Surname": "Gonzales",
+    "Age": 29,
+    "Mail": "lauren.gonzales@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+  {
+    "Id": "135e7d8c-f731-4fff-a57a-af7f3bf6cda1",
+    "Name": "Joshua",
+    "Surname": "White",
+    "Age": 31,
+    "Mail": "joshua.white@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/23.jpg"
+  },
+  {
+    "Id": "9ebc19fe-19b1-412d-8d23-02df4860f34c",
+    "Name": "Rachel",
+    "Surname": "Lee",
+    "Age": 27,
+    "Mail": "rachel.lee@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/24.jpg"
+  },
+  {
+    "Id": "9b02faa7-0659-43f7-9e49-f06abcfcf08a",
+    "Name": "Alexander",
+    "Surname": "Scott",
+    "Age": 30,
+    "Mail": "alexander.scott@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/25.jpg"
+  },
+  {
+    "Id": "a20140c3-9471-4397-a25b-8854c9df527b",
+    "Name": "Samantha",
+    "Surname": "Baker",
+    "Age": 28,
+    "Mail": "samantha.baker@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/26.jpg"
+  },
+  {
+    "Id": "294b4df0-5d37-48f2-9340-75a94aa2c2d4",
+    "Name": "Matthew",
+    "Surname": "Rodriguez",
+    "Age": 29,
+    "Mail": "matthew.rodriguez@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/27.jpg"
+  },
+  {
+    "Id": "1b8633ca-86f6-4140-a514-245854da9ae6",
+    "Name": "Emily",
+    "Surname": "Carter",
+    "Age": 24,
+    "Mail": "emily.carter@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/28.jpg"
+  },
+  {
+    "Id": "37a42f01-c945-4d72-9c53-1bd6c61960e4",
+    "Name": "Christopher",
+    "Surname": "Phillips",
+    "Age": 27,
+    "Mail": "christopher.phillips@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/men/29.jpg"
+  },
+  {
+    "Id": "335e4813-90f6-4cc6-92f3-87ca407abb48",
+    "Name": "Julia",
+    "Surname": "Turner",
+    "Age": 25,
+    "Mail": "julia.turner@example.com",
+    "ImageURL": "https://randomuser.me/api/portraits/women/30.jpg"
+  }
+]

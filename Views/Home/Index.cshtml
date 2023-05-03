@@ -1,0 +1,34 @@
+﻿@model UsersViewModel;
+@{
+    ViewData["Title"] = "Home Page | ASP.NET | Task 2 | aykhan.net";
+}
+
+<div class="row pb-5 mb-4">
+    <div style="display: flex; justify-content: space-between;">
+        <h1>Our Users</h1>
+        <a href="/home/add"><button type="button" class="btn btn-outline-primary">Add New User</button></a>
+    </div>
+    @foreach (var user in Model.Users)
+    {
+            <div class="col-12 col-sm-6 col-lg-3">
+             <a href="/home/details/@user.Id">
+                <div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                    <!-- Team Thumb-->
+                    <div class="advisor_thumb"><img class="img-fluid" src="@user.ImageURL" alt="@user.Name @user.Surname" style="width: 100%;">
+                    <!-- Social Info-->
+                        <div class="social-info">
+                            <a href="#"><i class="fa fa-facebook"></i></a>
+                            <a href="#"><i class="fa fa-twitter"></i></a>
+                            <a href="#"><i class="fa fa-linkedin"></i></a>
+                        </div>
+                    </div>
+                    <!-- Team Details-->
+                    <div class="single_advisor_details_info">
+                        <h6>@user.Name @user.Surname</h6>
+                        <p class="designation">@user.Mail</p>
+                    </div>
+                </div>
+               </a>
+            </div>
+    }
+</div>
